@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "buyer": "PAUL",
+    "uuid": "e881e7e63a615620e6155c59794415a31b7645549298cfc10edab461deca7f1d",
+    "reason": "Revoked by admin",
+    "date": "2026-01-25 07:33"
+  }
+]
